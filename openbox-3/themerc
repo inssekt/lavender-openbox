@@ -1,0 +1,98 @@
+
+border.width                              : 0
+padding.width                             : 20
+padding.height                            : 8
+window.client.padding.width               : 0
+window.client.padding.height			  : 1
+window.handle.width                       : 2
+window.label.text.justify                 : left
+
+window.active.border.color                : #e3e3e3
+window.inactive.border.color              : #e8e8e8
+window.*.client.color                     : #c4c4c4
+window.*.title.bg                         : flat
+window.active.title.bg.color              : #d8d0c8
+window.inactive.title.bg.color            : #ded6ce
+window.active.label.bg                    : parentrelative
+window.inactive.label.bg                  : parentrelative
+window.active.button.*.bg                 : parentrelative
+window.active.button.*.image.color        : #D0D0D0
+window.active.button.*.pressed.image.color: #798085
+window.active.button.*.hover.image.color  : #FDFEFF
+window.inactive.button.*.bg               : parentrelative
+window.inactive.button.*.image.color      : #c2c2c2
+window.inactive.button.*.hover.image.color: #CED4D9
+window.active.label.text.color            : #f7f7f7
+window.inactive.label.text.color          : #f8f8f8
+window.active.title.separator.color       : #e3e3e3
+window.inactive.title.separator.color     : #e8e8e8
+
+# Iconify button
+window.active.button.iconify.unpressed.image.color: #d79921
+window.active.button.iconify.hover.image.color: #fbffa9
+
+# Max button
+window.active.button.max.unpressed.image.color: #98971a
+window.active.button.max.hover.image.color: #d5ffa9
+window.active.button.max.toggled.unpressed.image.color: #98971a
+window.active.button.max.toggled.hover.image.color: #d5ffa9
+
+# Desk button
+window.active.button.desk.unpressed.image.color: #D0D0D0
+window.active.button.desk.hover.image.color: #7b99b7
+
+# Shade button colors
+window.active.button.shade.unpressed.image.color: #D0D0D0
+window.active.button.shade.hover.image.color: #ab87a4
+
+# Close button colors
+window.active.button.close.unpressed.image.color:#cc241d
+window.active.button.close.hover.image.color:#ffd4b9
+
+!! grey900
+window.active.handle.bg:        Solid Flat
+window.active.handle.bg.color:  #c4c4c4
+
+!! grey100
+window.active.grip.bg:          Solid Flat
+window.active.grip.bg.color:    #c4c4c4
+
+!! grey900
+window.inactive.handle.bg:        Solid Flat
+window.inactive.handle.bg.color:  #c4c4c4
+
+!! grey100
+window.inactive.grip.bg:          Solid Flat
+window.inactive.grip.bg.color:    #c4c4c4
+
+menu.border.width                         : 0
+menu.separator.width                      : 0
+menu.separator.padding.width              : 0
+menu.separator.padding.height             : 0
+menu.overlap.x                            : 0
+menu.overlap.y                            : 0
+menu.border.color                         : #d0d2d2
+menu.separator.color                      : #d0d2d2
+menu.items.text.color                     : #31363b
+menu.items.disabled.text.color            : #a5a7a9
+menu.items.active.text.color              : #fcfcfc
+menu.items.active.disabled.text.color     : #a5a7a9
+menu.items.bg                             : flat
+menu.items.bg.color                       : #EFF0F1
+menu.items.active.bg                      : flat
+menu.items.active.bg.color                : #3daee9
+menu.title.text.color                     : #31363b
+menu.title.bg                             : flat
+menu.title.bg.color                       : #d0d2d2
+
+osd.border.width                          : 1
+osd.border.color                          : #d0d2d2
+osd.bg                                    : flat
+osd.bg.color                              : #EFF0F1
+osd.hilight.bg                            : flat
+osd.hilight.bg.color                      : #BBDCEE
+osd.unhilight.bg                          : flat
+osd.unhilight.bg.color                    : #EFF0F1
+osd.label.bg                              : flat
+osd.label.bg.color                        : #BBDCEE
+osd.label.text.color                      : #31363b

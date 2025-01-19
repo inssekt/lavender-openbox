@@ -1,0 +1,4 @@
+#define iconify_hover_width 7
+#define iconify_hover_height 7
+static unsigned char iconify_hover_bits[] = {
+   0x00, 0x00, 0x00, 0x00, 0x00, 0x7f, 0x00 };
